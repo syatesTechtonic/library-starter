@@ -28372,7 +28372,7 @@ var Application = function Application() {
   return _react.default.createElement("h1", null, "Application");
 };
 
-(0, _reactDom.render)(_react.default.createElement(Application, null), document.getElementById("root"));
+(0, _reactDom.render)(_react.default.createElement(Application, null), document.getElementById('root'));
 },{"react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","./assets/index.scss":"assets/index.scss"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
